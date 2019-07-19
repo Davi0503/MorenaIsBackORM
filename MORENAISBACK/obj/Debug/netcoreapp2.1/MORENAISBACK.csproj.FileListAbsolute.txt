@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\bin\Debug\netcoreapp2.1\MORENAISBACK.deps.json
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\bin\Debug\netcoreapp2.1\MORENAISBACK.dll
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\bin\Debug\netcoreapp2.1\MORENAISBACK.pdb
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.dll
+C:\Users\Pichau\source\repos\MORENAISBACK\MORENAISBACK\obj\Debug\netcoreapp2.1\MORENAISBACK.pdb

@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\TESTEMORENA.deps.json
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\TESTEMORENA.runtimeconfig.json
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\TESTEMORENA.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\TESTEMORENA.dll
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\TESTEMORENA.pdb
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\MORENAISBACK.dll
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\bin\Debug\netcoreapp2.1\MORENAISBACK.pdb
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.csproj.CopyComplete
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.dll
+C:\Users\Pichau\source\repos\MORENAISBACK\TESTEMORENA\obj\Debug\netcoreapp2.1\TESTEMORENA.pdb
